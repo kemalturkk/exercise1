@@ -4,8 +4,8 @@ def terimlerToplami (ilkTerim,sonTerim,artisMiktari):
 sonuc= terimlerToplami(19, 202, 3)
 print (sonuc)
  
-print("------------")
-#metot 2 
+print("-----------ikinci yöntem-------------")
+ 
 
 liste1 = range (19,203, 3)
 print("elemanlar toplamı :" , sum(liste1))  
